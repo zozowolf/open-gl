@@ -1,0 +1,19 @@
+﻿  didac03_EnTest.cpp
+U:\Users\Vincent\Dropbox\Travail\CoursVR\Programmation\OpenGL\openGL_2022\CodageCours\didac03_EnTest.cpp(27,30): warning C4305: 'initialisation' : troncation de 'double' à 'GLfloat'
+U:\Users\Vincent\Dropbox\Travail\CoursVR\Programmation\OpenGL\openGL_2022\CodageCours\didac03_EnTest.cpp(48,30): warning C4305: 'argument' : troncation de 'double' à 'GLclampf'
+U:\Users\Vincent\Dropbox\Travail\CoursVR\Programmation\OpenGL\openGL_2022\CodageCours\didac03_EnTest.cpp(163,24): warning C4305: '+=' : troncation de 'double' à 'float'
+U:\Users\Vincent\Dropbox\Travail\CoursVR\Programmation\OpenGL\openGL_2022\CodageCours\didac03_EnTest.cpp(163,38): warning C4305: '-=' : troncation de 'double' à 'float'
+U:\Users\Vincent\Dropbox\Travail\CoursVR\Programmation\OpenGL\openGL_2022\CodageCours\didac03_EnTest.cpp(167,24): warning C4305: '-=' : troncation de 'double' à 'float'
+U:\Users\Vincent\Dropbox\Travail\CoursVR\Programmation\OpenGL\openGL_2022\CodageCours\didac03_EnTest.cpp(167,38): warning C4305: '+=' : troncation de 'double' à 'float'
+U:\Users\Vincent\Dropbox\Travail\CoursVR\Programmation\OpenGL\openGL_2022\CodageCours\didac03_EnTest.cpp(203,16): warning C4305: '+=' : troncation de 'double' à 'GLfloat'
+U:\Users\Vincent\Dropbox\Travail\CoursVR\Programmation\OpenGL\openGL_2022\CodageCours\didac03_EnTest.cpp(205,16): warning C4305: '+=' : troncation de 'double' à 'GLfloat'
+U:\Users\Vincent\Dropbox\Travail\CoursVR\Programmation\OpenGL\openGL_2022\CodageCours\didac03_EnTest.cpp(207,16): warning C4305: '+=' : troncation de 'double' à 'GLfloat'
+U:\Users\Vincent\Dropbox\Travail\CoursVR\Programmation\OpenGL\openGL_2022\CodageCours\didac03_EnTest.cpp(213,16): warning C4305: '-=' : troncation de 'double' à 'GLfloat'
+U:\Users\Vincent\Dropbox\Travail\CoursVR\Programmation\OpenGL\openGL_2022\CodageCours\didac03_EnTest.cpp(215,16): warning C4305: '-=' : troncation de 'double' à 'GLfloat'
+U:\Users\Vincent\Dropbox\Travail\CoursVR\Programmation\OpenGL\openGL_2022\CodageCours\didac03_EnTest.cpp(217,16): warning C4305: '-=' : troncation de 'double' à 'GLfloat'
+  Génération de code en cours
+  1 of 7 functions (14.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  Codage.vcxproj -> U:\Users\Vincent\Dropbox\Travail\CoursVR\Programmation\OpenGL\openGL_2022\CodageCours\x64\Release\Codage.exe
